@@ -19,6 +19,8 @@ This tool is especially useful when working with **MAC IDs, device IDs, site IDs
 
 ## ⚙️ How the Code Works
 
+<img width="3412" height="4836" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/8ab8538b-e88c-413a-b40c-ab731a3f7bda" />
+
 1. **File Upload**
    - Opens a file chooser in Google Colab
    - User selects an Excel or CSV file (no file paths required)
@@ -66,6 +68,11 @@ This script is ideal for:
 - ✔ Beginner-friendly and production-safe
 
 ---
+
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/a822539e-ca14-4738-a071-889c1bdcc523" />
+
+---
+
 
 ## 🧪 Example Output
 
